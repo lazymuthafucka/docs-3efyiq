@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-4hklzy.jnetoto87kek.cyou/sitemap.xml
